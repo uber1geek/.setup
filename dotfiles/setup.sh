@@ -2,3 +2,4 @@
 
 ln -s $HOME/.setup/dotfiles/gitconfig $HOME/.gitconfig
 ln -s $HOME/.setup/dotfiles/spacemacs $HOME/.spacemacs
+ln -s $HOME/.setup/dotfiles/spacemacs $HOME/.zpreztorc
